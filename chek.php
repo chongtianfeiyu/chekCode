@@ -21,7 +21,7 @@
 	<body>
 	
 		<form action="check.php" method="post">
-			code:<input type="text" name="code"><img src="checkCode.php" onclick="this.src='checkCode.php'"/>
+			code:<input type="text" name="code"><img src="demo.php" onclick="this.src='demo.php'"/>
 			<input type="submit" name="l" value="验证">
 		</form>
 		
